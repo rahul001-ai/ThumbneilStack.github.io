@@ -1,33 +1,89 @@
+/* For style our website */
+/* for entire code */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    place-items: center;
+    place-content: center;
 }
 
-body{
-    font-size: 24px;
-    align-items: center;
-    background-color: #171717;
-    color: white;
+html{
+    font-family: sans-serif;
 }
 
 h1{
+    font-family: Arial, sans-serif;
     text-align: center;
+    color: white;
+    stroke: 2px red;
+    margin-top: 60px;
+}
+
+body{
+    background-color: #171717;
+}
+
+div{
+
+    font-size: 38px;
+    margin-top: 180px;
+    margin-bottom: 200px;
+    
+}
+
+p{
+    color: #ed7014;
+    margin-left: 450px;
+    font-weight: 700;
+    width: 500px;
 }
 
 .Section1{
-    margin-left: 250px;
-    margin-top: 400px;
-    font-size: 44px;
-}
-p{
-    margin-left: 520px;
+    /* margin-left: 250px; */
+    /* width: 500px; */
 }
 
-.Div2{
-    margin-left:1000px;
-    margin-top:-205px;
-    filter:box-shadow(3px 3px 5px black);
+#Pic1{
+    margin-left: 1100px;
+    margin-top: -1250px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
 
+.Section2 #Sec{
+    /* width: 500px; */
+    margin-left: 1100px;
+}
+
+#Pic2{
+    margin-left: 450px;
+    margin-top: -1050px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;    
+    
+}
+
+.Section3{
+    /* width: 500px; */
+}
+
+#Pic3{
+    margin-left: 1100px;
+    margin-top: -1050px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+button #btn{
+    margin-left: 960;
+}
