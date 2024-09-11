@@ -6,7 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     display: grid;
-    place--items: center;
+    place-items: center;
 }
 
 html{
@@ -35,8 +35,9 @@ div{
 
 p{
     color: #ed7014;
-    margin-left: 450px;
-    font-weight: 700;
+    /* margin: auto; */
+    margin-left: -400px;
+    /* font-weight: 700; */
     width: 500px;
 }
 
@@ -46,8 +47,9 @@ p{
 }
 
 #Pic1{
-    margin-left: 1100px;
-    margin-top: -1250px;
+    /* margin: auto; */
+    margin-left: 800px;
+    /* margin-top: -1250px; */
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -57,12 +59,12 @@ p{
 
 .Section2 #Sec{
     /* width: 500px; */
-    margin-left: 1100px;
+    /* margin-left: 1100px; */
 }
 
 #Pic2{
-    margin-left: 450px;
-    margin-top: -1050px;
+    margin-left: -595px;
+    /* margin-top: -1050px; */
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -76,8 +78,8 @@ p{
 }
 
 #Pic3{
-    margin-left: 1100px;
-    margin-top: -1050px;
+    margin-left: 800px;
+    /* margin-top: -1050px; */
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
